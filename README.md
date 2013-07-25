@@ -7,16 +7,16 @@ Provides anonymous moderated comments for Elgg 1.8. Anonymous users must enter a
 are prevented through use of RECAPTCHA, stopforumspam and mandatory moderation. Email addresses are sent in notifications
 but not stored on the server to reduce privacy concerns.
 
-= Content =
+== Content ==
 
 1. Features
 
 2. ToDo
 
-= Features =
+== 1. Features ==
 
 Allows anonymous users to comment on public content
 
-= ToDo =
+== 2. ToDo ==
 
 General cleanup of code
