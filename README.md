@@ -8,11 +8,15 @@ are prevented through use of RECAPTCHA, stopforumspam and mandatory moderation. 
 but not stored on the server to reduce privacy concerns.
 
 = Content =
+
 1. Features
+
 2. ToDo
 
 = Features =
+
 Allows anonymous users to comment on public content
 
 = ToDo =
+
 General cleanup of code
